@@ -1,0 +1,19 @@
+# Ignore everything by default
+*
+
+# Allow Git to look inside folders
+!*/
+
+# Track Python files
+!*.py
+
+# Track Jupyter notebooks
+!*.ipynb
+
+# Track README files
+!README.md
+!README.txt
+
+# Always track the gitignore itself
+!.gitignore
+
