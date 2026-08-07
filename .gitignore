@@ -9,6 +9,9 @@
 
 # Track Jupyter notebooks
 !*.ipynb
+#track .pkl and .pt
+!*.pkl
+!*.pt
 
 # Track README files
 !README.md
